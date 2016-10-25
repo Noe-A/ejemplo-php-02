@@ -1,0 +1,12 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    background:#E0B3B9;
+}
+
+#formulario{
+    margin:0px auto;
+    width:400px;
+    background: white;
+    border:3px solid black;
+}
